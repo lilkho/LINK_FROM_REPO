@@ -1,2 +1,2 @@
-# LINK_FROM_REPO
+# firstrepo
 ok
